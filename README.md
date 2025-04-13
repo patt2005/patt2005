@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Victor!
+## Hi there 👋 I'm Peter!
 
 I'm a passionate software developer, builder of digital products, and forever learner.  
 I enjoy turning ideas into clean, functional code — from AI-powered apps to cloud infrastructure.
